@@ -35,7 +35,7 @@ body {
     /* Resizes the background image to cover the entire container */
     background-size: cover;
     font-family: Georgia, Verdana, Serif;
-    line-height: 1.5;
+    line-height: 3;
     font-size: 18px;
     display: flex;
     flex-direction: column;
